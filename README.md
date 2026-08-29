@@ -140,28 +140,34 @@ def run_dev_loop():
 
 ---
 
-### ⏳ Project Timeline & Milestones
+### ⏳ Project & Repository Timeline
 
 <table width="100%">
   <tr>
     <td>
-      <ul style="list-style-none; padding-left: 0;">
+      <ul style="list-style-type: none; padding-left: 0;">
         <li>
-          <b>🚀 Present — Intelligent Agentic Workflows</b>
-          <p>Designing multi-agent systems with conversational orchestration, custom memory persistence layers, and tool invocation hooks.</p>
-          <p><i>Stack: Python · PyTorch · Docker · GitHub Actions</i></p>
+          <b>🛡️ August 2026 — <a href="https://github.com/parthivsriramb30/Compliance-Checker">Compliance-Checker</a></b>
+          <p>Engineered an automated compliance checking validation utility designed to assess standard file policies and schema conformity.</p>
+          <p><i>Stack: Java · OOP · XML/JSON Parsing</i></p>
         </li>
-        <hr style="border: 0; border-top: 1px dashed #38bdf8;">
+        <hr style="border: 0; border-top: 1px dashed #a78bfa;">
         <li>
-          <b>🌐 Q2 2026 — Scalable Microservices Infrastructure</b>
-          <p>Created high-performance API services featuring custom rate-limiters, secure JWT tokens, and optimized MongoDB querying protocols.</p>
-          <p><i>Stack: Node.js · Express · MongoDB · Git</i></p>
+          <b>🚌 August 2026 — <a href="https://github.com/parthivsriramb30/College-Transport-Management-System">College-Transport-Management-System</a></b>
+          <p>Developed a structured logistics tracker for handling college student transportation tracking and routes scheduling.</p>
+          <p><i>Stack: TypeScript · Node.js · Express · Databases</i></p>
         </li>
-        <hr style="border: 0; border-top: 1px dashed #38bdf8;">
+        <hr style="border: 0; border-top: 1px dashed #a78bfa;">
         <li>
-          <b>📈 Q1 2026 — Predictive ML Pipelines</b>
-          <p>Implemented mathematical modeling routines, featuring data pre-processing, feature scaling, and automated regression model evaluation.</p>
+          <b>🦟 August 2026 — <a href="https://github.com/parthivsriramb30/Dengue-AI">Dengue-AI</a></b>
+          <p>Formulated an AI prediction sandbox using statistical machine learning models to analyze environmental triggers of Dengue outbreaks.</p>
           <p><i>Stack: Python · Scikit-Learn · Pandas · NumPy</i></p>
+        </li>
+        <hr style="border: 0; border-top: 1px dashed #a78bfa;">
+        <li>
+          <b>🗣️ July 2026 — <a href="https://github.com/parthivsriramb30/Intelligent-Conversational-AI-for-KSP-Crime-Database">Intelligent Conversational AI (KSP Crime Database)</a></b>
+          <p>Constructed an intelligent AI chatbot interface optimized for processing conversational natural language queries on crime records database.</p>
+          <p><i>Stack: TypeScript · Conversational AI · REST APIs</i></p>
         </li>
       </ul>
     </td>
