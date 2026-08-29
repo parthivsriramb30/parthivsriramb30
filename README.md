@@ -84,29 +84,32 @@ I am a passionate **Full Stack & AI Engineer** dedicated to building high-perfor
 
 ---
 
-### 🚀 Featured Projects
+### ⚙️ System Runtime & Research
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Smart AI Decision Engine</h4>
-      <p>An intelligent platform integrating custom machine learning models with a modern React frontend to deliver real-time predictive analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      </p>
-      <a href="https://github.com/parthivsriramb30"><b>View Repository →</b></a>
+      <h4>🖥️ Core Dev Loop</h4>
+      <pre lang="python">
+def run_dev_loop():
+    while career_in_progress:
+        learn_deeply()
+        build_deliberately()
+        integrate_ai_models()
+        if code_buggy:
+            read_docs()
+            drink_coffee()
+        else:
+            optimize_performance()
+            celebrate()</pre>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Scalable Microservices Architecture</h4>
-      <p>A robust backend API infrastructure utilizing Node.js, Express, and MongoDB, complete with JWT authentication, custom middleware, and rate-limiting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://github.com/parthivsriramb30"><b>View Repository →</b></a>
+      <h4>🧬 Current Research Sandbox</h4>
+      <ul>
+        <li>🧪 <b>Agentic Workflows:</b> Structuring multi-agent communication and memory state persistence.</li>
+        <li>🌐 <b>Next-gen Web Architectures:</b> Developing hyper-responsive backend systems using Node & Express.</li>
+        <li>📈 <b>Statistical ML:</b> Designing and fine-tuning neural network parameters for deep learning projects.</li>
+      </ul>
     </td>
   </tr>
 </table>
