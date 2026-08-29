@@ -16,8 +16,6 @@
 
 ## About me
 
-I’m **Parthiv Sriram B**, an aspiring software engineer focused on building reliable, user-centered digital products. I enjoy taking an idea from a rough problem statement to a practical solution—learning quickly, refining carefully, and caring about the details that make a product feel polished.
-
 ```text
 Focus       →  Software development, problem-solving & modern web technologies
 Approach    →  Learn deeply · build deliberately · improve continuously
@@ -42,15 +40,6 @@ Open to     →  Internships, collaborations and meaningful engineering opportun
 
 </div>
 
-## Selected work
-
-| Project | What it demonstrates | Link |
-| --- | --- | --- |
-| **Project One** | A concise one-line description of the problem solved and the result. | [View project](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE) |
-| **Project Two** | A concise one-line description of the technology and impact. | [View project](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO) |
-| **Project Three** | A concise one-line description of what makes this project worth exploring. | [View project](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE) |
-
-> Replace the project placeholders with your strongest work—quality matters more than quantity.
 
 ## GitHub activity
 
