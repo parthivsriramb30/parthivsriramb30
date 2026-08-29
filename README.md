@@ -140,17 +140,35 @@ def run_dev_loop():
 
 ---
 
-### 🤝 Let's Connect!
+### ⏳ Project Timeline & Milestones
 
-I am always keen to connect with recruiters, developers, and AI researchers to discuss new ideas, collaborations, or engineering opportunities. Feel free to reach out through any of the channels below:
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/parthiv-sriram-35758136a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:parthivsriram.b2025cse@sece.ac.in"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/parthivsriramb30"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<table width="100%">
+  <tr>
+    <td>
+      <ul style="list-style-none; padding-left: 0;">
+        <li>
+          <b>🚀 Present — Intelligent Agentic Workflows</b>
+          <p>Designing multi-agent systems with conversational orchestration, custom memory persistence layers, and tool invocation hooks.</p>
+          <p><i>Stack: Python · PyTorch · Docker · GitHub Actions</i></p>
+        </li>
+        <hr style="border: 0; border-top: 1px dashed #38bdf8;">
+        <li>
+          <b>🌐 Q2 2026 — Scalable Microservices Infrastructure</b>
+          <p>Created high-performance API services featuring custom rate-limiters, secure JWT tokens, and optimized MongoDB querying protocols.</p>
+          <p><i>Stack: Node.js · Express · MongoDB · Git</i></p>
+        </li>
+        <hr style="border: 0; border-top: 1px dashed #38bdf8;">
+        <li>
+          <b>📈 Q1 2026 — Predictive ML Pipelines</b>
+          <p>Implemented mathematical modeling routines, featuring data pre-processing, feature scaling, and automated regression model evaluation.</p>
+          <p><i>Stack: Python · Scikit-Learn · Pandas · NumPy</i></p>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
-<sub>Crafted with 💜 by Parthiv Sriram B.</sub>
-
+<div align="center">
+  <sub>Crafted with 💜 by Parthiv Sriram B.</sub>
 </div>
